@@ -1,0 +1,13 @@
+.open-space {
+    background: url('./39608.jpg');
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+}
+
+.button-stop {
+    left: 20px !important;
+}
