@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/singleton/static/css/main.0dcffb89.chunk.css",
+    "main.js": "/singleton/static/js/main.936365e1.chunk.js",
+    "main.js.map": "/singleton/static/js/main.936365e1.chunk.js.map",
+    "runtime-main.js": "/singleton/static/js/runtime-main.be3b5640.js",
+    "runtime-main.js.map": "/singleton/static/js/runtime-main.be3b5640.js.map",
+    "static/js/2.e1212054.chunk.js": "/singleton/static/js/2.e1212054.chunk.js",
+    "static/js/2.e1212054.chunk.js.map": "/singleton/static/js/2.e1212054.chunk.js.map",
+    "index.html": "/singleton/index.html",
+    "static/css/main.0dcffb89.chunk.css.map": "/singleton/static/css/main.0dcffb89.chunk.css.map",
+    "static/js/2.e1212054.chunk.js.LICENSE.txt": "/singleton/static/js/2.e1212054.chunk.js.LICENSE.txt",
+    "static/media/space.component.css": "/singleton/static/media/39608.0b028c13.jpg",
+    "static/media/rocket.css": "/singleton/static/media/rocket.28737b1b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be3b5640.js",
+    "static/js/2.e1212054.chunk.js",
+    "static/css/main.0dcffb89.chunk.css",
+    "static/js/main.936365e1.chunk.js"
+  ]
+}
